@@ -12,6 +12,7 @@ body {
   text-transform: uppercase;
   text-align: center;
   border-bottom: 5px solid rgb(236, 217, 147);
+  position:fixed;
 }
 .course {
   margin: 40px auto;
